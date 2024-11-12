@@ -30,3 +30,4 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-sitemap #https://qiita.com/r_saiki/items/9ab3be34fa255724c9dd
