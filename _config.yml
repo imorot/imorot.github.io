@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "新闻 海报 图片 アニメ 情報告知"
+author: "TV アニメ"
+description: "key visuals and poster, news <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "en"
+lang: "zh-Hant"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
