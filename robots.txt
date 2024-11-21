@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aniverse-mag.com/sitemap.xml
+Sitemap: https://mianbao.us.kg/sitemap.xml
